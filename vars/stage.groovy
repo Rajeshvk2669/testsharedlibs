@@ -1,4 +1,3 @@
-
 def call (string maven Goal) {
 if ("${maven Goal}" == "clean")
    {
